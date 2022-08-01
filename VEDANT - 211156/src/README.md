@@ -20,3 +20,5 @@ HOW TO RUN
 2. Spawn the robot in the gazebo simulation using the command :- roslaunch m2wr_description spawn.launch
 
 3. we can control the robot by using the teleop keyboard by running :- rosrun teleop_twist_keyboard teleop_twist_keyboard.py 
+
+Youtube link :- https://www.youtube.com/watch?v=9s6HWOylgp8&t=4s
