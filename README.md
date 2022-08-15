@@ -106,7 +106,7 @@ Useful Resources:
 ## Assignment 4
 **Aim:** Understanding control systems.
 
-**Deadline:** 20th August, 2022
+**Deadline:** 23th August, 2022
 
 **Submission Format:**
 - Create a pull request (new) against the `ros` branch.
