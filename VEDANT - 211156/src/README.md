@@ -15,3 +15,6 @@ Launching code:
 4. roslaunch m2wr_description rviz.launch
 
 4. rostopic pub /cmd_vel geometry_msgs/Twist -- '[0.0,0.0,0.0]' '[1.0,0.0,1.0]'
+
+
+youtube link :- https://www.youtube.com/watch?v=yrqR7Pp09ZQ
